@@ -5,13 +5,13 @@
     }
 
     main .personagem .imagem {
-        height: 80%;
+        height: 60%;
     }
 
     .conteudo {
         justify-content: flex-end;
         left: 0;
-        top: -10%;
+        top: -15%;
         max-width: 100vw;
         padding: 30px;
     }
@@ -39,7 +39,7 @@
 
 @media (max-width: 425px) {
     main .personagem .imagem {
-        height: 70%;
+        height: 50%;
     }
 
     .conteudo .logo {
@@ -49,7 +49,7 @@
     }
 
     .conteudo {
-        top: -12%;
+        top: -15%;
     }
 
     .conteudo.nome-personagem {
