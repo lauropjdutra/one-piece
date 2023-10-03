@@ -11,7 +11,7 @@
     .conteudo {
         justify-content: flex-end;
         left: 0;
-        top: -20%;
+        top: -15%;
         max-width: 100vw;
         padding: 30px;
     }
@@ -28,7 +28,7 @@
         flex-direction: row;
         align-items: flex-end;
         width: 100%;
-        padding: 30px;
+        padding: 15px;
     }
 
     .botoes .botao img {
@@ -47,7 +47,7 @@
     }
 
     .conteudo {
-        top: -30%;
+        top: -15%;
     }
 
     .conteudo .nome-personagem {
@@ -56,7 +56,7 @@
 
     .botoes {
         padding: 20px;
-        top: -20%;
+        top: -10%;
     }
 
     .botoes .botao img {
